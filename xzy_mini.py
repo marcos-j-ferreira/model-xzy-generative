@@ -5,7 +5,7 @@
 #
 # Author: Marcos Júnior Lemes Ferreira
 # Repository: https://github.com/marcos-j-ferreira/model-xzy-generative
-# Hugging Face: ...
+# Hugging Face: https://huggingface.co/spaces/marcos-j-ferreira/xzy_mini
 
 import sys
 import time
