@@ -2,6 +2,7 @@
 
 A simple generative text model capable of generalizing from a small dataset (53 words). Given an input, it can predict and generate the next words in a sequence.
 
+[![Hugging Face](https://img.shields.io/badge/HuggingFace-1f1f1f?style=for-the-badge&logo=huggingface&logoColor=FFD21E)](https://huggingface.co/spaces/marcos-j-ferreira/xzy_minihttps://huggingface.co/spaces/marcos-j-ferreira/xzy_mini)
 ---
 
 ## How it works
